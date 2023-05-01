@@ -5,6 +5,7 @@
 ## Sou Dev Back-End 
 
 - 🌱 Atualmente estou aprendendo Delphi.
+- 🎨 Tenho uma loja de Artes.
 - 📫 Essa é a melhor forma de Entrar em Contato Comigo! [Linkedin](www.linkedin.com/in/anacarolsantos0205)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabananapj)
