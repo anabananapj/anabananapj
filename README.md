@@ -8,7 +8,7 @@
 - 🎨 Tenho uma loja de Artes.
 - 🎬 Meu filme Favorito é Avatar 2.
 - 🐱 Tenho uma Gata de Estimação.
-- 📫 Essa é a melhor forma de Entrar em Contato Comigo! [Linkedin](www.linkedin.com/in/anacarolsantos0205)
+- 📫 Essa é a melhor forma de Entrar em Contato Comigo! [Linkedin](https://www.linkedin.com/in/anacarolsantos0205/)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabananapj)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolsantos0205/)
