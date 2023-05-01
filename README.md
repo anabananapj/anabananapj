@@ -6,6 +6,8 @@
 
 - 🌱 Atualmente estou aprendendo Delphi.
 - 🎨 Tenho uma loja de Artes.
+- 🎬 Meu filme Favorito é Avatar 2.
+- 🐱 Tenho uma Gata de Estimação.
 - 📫 Essa é a melhor forma de Entrar em Contato Comigo! [Linkedin](www.linkedin.com/in/anacarolsantos0205)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabananapj)
@@ -20,6 +22,27 @@
 
 [![Spotify](https://novatorem-8kd4e13r9-anabananapj.vercel.app/api/spotify)](https://open.spotify.com/user/anabananapj)
 
+## Linguagens Usadas:
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+  
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="auto" width="40">
+  
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png" height="auto" width="40">
+</p>
+
 ---
 
 
@@ -31,4 +54,5 @@
 
 
 
-<img src="https://imgur.com/rilHVxA.png"/> 
+<img style="height:25rem;width:100rem;" src="https://i.pinimg.com/originals/82/0a/92/820a92e121ad8563e20079c787d77fd3.png"/> 
+
