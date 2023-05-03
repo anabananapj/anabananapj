@@ -5,7 +5,7 @@
 ## Sou Dev Back-End! 
 
 - 🌱 Atualmente estou aprendendo Delphi.
-- 🎨 Tenho uma loja de Artes.
+- 🎨 Aspirante a Artista.
 - 🎬 Meu filme Favorito é Avatar 2.
 - 🐱 Tenho uma Gata de Estimação.
 - 📫 Essa é a melhor forma de Entrar em Contato Comigo! [Linkedin](https://www.linkedin.com/in/anacarolsantos0205/)
