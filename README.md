@@ -25,6 +25,8 @@
 ## Linguagens Usadas:
 
 <p align="left">
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
 
@@ -37,6 +39,8 @@
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+  
+<img src="https://github.com/anabananapj/anabananapj/assets/105990581/16bf105f-87cf-4750-ba54-ceb2236cb347" height="auto" width="40">
   
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="auto" width="40">
   
