@@ -4,7 +4,7 @@
 
 ## Sou Dev Back-End! 
 
-- 🌱 Atualmente estou aprendendo De UI/UX.
+- 🌱 Atualmente estou aprendendo UI/UX.
 - 🎨 Aspirante a Artista.
 - 🎬 Meu filme Favorito é Avatar 2.
 - 🐱 Tenho uma Gata de Estimação.
