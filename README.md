@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## Sou Dev Back-End! 
+## Sou Designer UX/UI ! 
 
 - 🌱 Atualmente estou aprendendo UI/UX.
 - 🎨 Aspirante a Artista.
